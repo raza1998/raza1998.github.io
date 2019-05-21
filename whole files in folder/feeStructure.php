@@ -54,11 +54,11 @@
 	      </button>
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav ml-auto">
-	        	<li class="nav-item"><a href="index.html" class="nav-link pl-0">Home</a></li>
-	        	<li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
-	        	<li class="nav-item"><a href="courses.html" class="nav-link">Courses</a></li>
-	        	<li class="nav-item active"><a href="pricing.html" class="nav-link">Fee-Structure</a></li>
-	          <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+	        	<li class="nav-item"><a href="index.php" class="nav-link pl-0">Home</a></li>
+	        	<li class="nav-item"><a href="about.php" class="nav-link">About</a></li>
+	        	<li class="nav-item"><a href="courses.php" class="nav-link">Courses</a></li>
+	        	<li class="nav-item active"><a href="feeStructure.php" class="nav-link">Fee-Structure</a></li>
+	          <li class="nav-item"><a href="contact.php" class="nav-link">Contact</a></li>
 	        </ul>
 	      </div>
 	    </div>
@@ -163,9 +163,9 @@
             <div class="ftco-footer-widget mb-5 ml-md-4">
               <h2 class="ftco-heading-2">Links</h2>
               <ul class="list-unstyled">
-                <li><a href="index.html"><span class="ion-ios-arrow-round-forward mr-2"></span>Home</a></li>
-                <li><a href="about.html"><span class="ion-ios-arrow-round-forward mr-2"></span>About</a></li>
-                <li><a href="#courses.html"><span class="ion-ios-arrow-round-forward mr-2"></span>Services</a></li>
+                <li><a href="index.php"><span class="ion-ios-arrow-round-forward mr-2"></span>Home</a></li>
+                <li><a href="about.php"><span class="ion-ios-arrow-round-forward mr-2"></span>About</a></li>
+                <li><a href="courses.php"><span class="ion-ios-arrow-round-forward mr-2"></span>Services</a></li>
                 <li><a href="contact.php"><span class="ion-ios-arrow-round-forward mr-2"></span>Contact</a></li>
               </ul>
             </div>
